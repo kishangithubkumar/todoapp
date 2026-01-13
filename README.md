@@ -3,7 +3,7 @@
 
 # 📝 Todo Application
 
-A simple and clean **Todo Application** built using **Spring Boot**, **Thymeleaf**, and **Bootstrap**.  
+A simple and clean **Todo Application** built using **Spring Boot**, **Thymeleaf**, **Bootstrap** and **MYSql**  
 This project allows users to manage daily tasks by adding, completing, and deleting tasks with a modern UI.
 
 ---
