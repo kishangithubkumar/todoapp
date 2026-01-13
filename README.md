@@ -1,5 +1,5 @@
+<img width="990" height="827" alt="todopics" src="https://github.com/user-attachments/assets/b6f02efe-e6c5-446f-8130-b9ecc6ac2b25" />
 
-<img width="1008" height="892" alt="image" src="https://github.com/user-attachments/assets/7c19891a-524c-4073-bf2b-a10b9524069c" />
 
 # 📝 Todo Application
 
